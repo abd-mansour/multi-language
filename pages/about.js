@@ -11,6 +11,7 @@ export default function About() {
       <div className="mt-5">
         <h1>{t("about.About title")}</h1>
         <p>{t("about.About description")}</p>
+        <span class="fi fi-ps"></span> <span class="fi fi-gr fis"></span>
       </div>
     </>
   );

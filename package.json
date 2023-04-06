@@ -10,6 +10,8 @@
   },
   "dependencies": {
     "bootstrap": "^5.2.0-beta1",
+    "flag-icon-css": "^4.1.7",
+    "flag-icons": "^6.6.6",
     "i": "^0.3.7",
     "next": "12.2.2",
     "next-i18next": "^11.0.0",
